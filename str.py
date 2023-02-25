@@ -1,7 +1,7 @@
-# Powered by @Darkranger00 | Tele:- @aadillllll
+# Powered by @Darkranger00 | Tele:- @ID_SELLER00
 # Dear Pero ppls Plish Don't remove this line from here🌚
 # created by by only you
-# Kangers ki mkc
+# TELE KA BAP
 # Don't remove credit!!
 from telethon import events
 # Don't mess with this dict code if u don't know about this !!
@@ -26,12 +26,12 @@ Type /help For Commands!
 
 startxt2 = """Meow [{}](tg://user?id={}),
 
-__This Is BanAll Bot\nOnly My Owner Can Access This Bot👻!__
+__This Is JaanBanallBot Bot\nOnly My Owner Can Access This Bot👅👻!__
 
 **My lib's Info!**
 ❍ Python Version » `{}`
 ❍ Telethon Version » `{}`
-❍ Code Owner » [ＹＯUＲ ＣＲUＳＨ،"(💛](https://t.me/aadillllll)
+❍ Code Owner » [ＹＯUＲ ＣＲUＳＨ،"(💛](https://t.me/@ID_SELLER00)
 """
 
 hlptxt = """ Meow [{}](tg://user?id={}),
@@ -44,5 +44,5 @@ __Here is the help menu__:
 ❅ /leave - To leave group.
 ❅ /restart - To restart the bot.
 
-❍ Facing any kind of issue then just join @crushbot_support and ask there!!
+❍ Facing any kind of issue then just join👅💦 @ISHQ00_I and ask there!!
 """
