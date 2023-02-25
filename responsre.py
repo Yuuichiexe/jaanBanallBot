@@ -1,7 +1,6 @@
 from datetime import datetime
 
-photo3 = "https://te.legra.ph/file/a930038d60dbd526ae90f.jpg"
-
+photo3 = "https://telegra.ph/file/485d5b950411e554ff696.jpg"
 
 def sample_response(input_text):
   user_message = str(input_text).lower()
@@ -10,14 +9,14 @@ def sample_response(input_text):
     return f"{photo3}\n\
     hey! adil is not here i am lara wanna play with me"
 
-  if user_message in ("adil", "aadil", "your crush", "@aadillllll"):
+  if user_message in ("cute", "baccha", "your crush", "@ID_SELLER00"):
     return "HE is busy in her schedule. you can tell me i inform her"
   if user_message in ("bsdk", "madharchod", "bkl", "behanchod", "cgutiya",
                       "gaandu"):
-    return "Adil baap ke bina gaali mat bak aane de use"
+    return "RANDI OFF HAI TO APNI MAA CHUDWA RHA RANDI KA PILA"
 
   if user_message in ("ladki", "pyar", "dhoka"):
-    return "Pyar ek dhoka hai...aur baaki zazbhai ki gaand maar yahi sahi moka hai"
+    return "Pyar ek dhoka hai...dur he accha h"
 
   if user_message in ("time", "time?", "waqt"):
     now = datetime.now()
