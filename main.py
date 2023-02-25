@@ -1,6 +1,6 @@
-# Powered by @Darkranger00 | TELE:- @aadillllll
+# Powered by @ID_SELLER00 | TELE:- @ID_SELLER00
 # Dear Pero ppls Plish Don't remove this line from here🌚
-# created by Aadil Shiekh
+# created by cute baccha
 import logging
 import re
 import os
@@ -31,7 +31,7 @@ OWNER_ID = getenv("OWNER_ID", None)
 SUDO_ID = "1463712862"
 LUCIFER = "5044329488"
 COWNER_ID = "5716978554"
-OP  = [ int(OWNER_ID), int(SUDO_ID), int(COWNER_ID), int(LUCIFER)]
+OP  = [ int(OWNER_ID), int(SUDO_ID), int(COWNER_ID), int(ANSH)]
 #TelegramClient..
 sree = TelegramClient(
     "BanAll",
@@ -39,16 +39,16 @@ sree = TelegramClient(
     api_hash=API_HASH
 ).start(bot_token=BOT_TOKEN)
 
-Owner = "aadillllll"
-repo = "https://github.com/Darkanger00/Banall"
+Owner = "@ID_SELLER00"
+repo = "https://github.com/CuteBaccha/jaanBanallBot"
 @sree.on(events.NewMessage(pattern="^/start"))
 async def start(event):
-    buttns = [Button.url("••ѕυρροяτ••", "https://t.me/crushbot_support"), Button.url("••ʀєρο••", f'{repo}')]
+    buttns = [Button.url("••ѕυρροяτ••", "https://t.me/ISHQ00_I"), Button.url("••ʀєρο ᴊᴏɪɴ ɢʀᴏᴜᴘ ••", f'{repo}')]
     py = platform.python_version()
     if event.sender.id in OP:
         await sree.send_file(
             event.chat.id,
-            file="https://te.legra.ph/file/d0db33935f4950e0d4d58.jpg",
+            file="https://telegra.ph/file/485d5b950411e554ff696.jpg",
             caption=startxt.format(
                 event.sender.first_name,
                 event.sender.id,
@@ -77,7 +77,7 @@ async def start(event):
 
 @sree.on(events.NewMessage(pattern="^/help"))
 async def start(event):
-    buttns = [Button.url("••ѕυρροяτ••", "https://t.me/crushbot_support"), Button.url("••ʀєρο••", f'{repo}')]
+    buttns = [Button.url("••ѕυρροяτ••", "https://t.me/ISHQ00_I"), Button.url("••ʀєρο✨••", f'{repo}')]
     py = platform.python_version()
     if event.sender.id in OP:
         await sree.send_file(
@@ -89,7 +89,7 @@ async def start(event):
         )
     if event.sender.id not in OP:
         await event.reply(
-            "Huh Nigga!\nThis is not for you lol 😑\n\nMake your own bot from this [Repository⚡](https://github.com/Darkranger00/Banall)",
+            "Huh Nigga!\nThis is not for you lol 😑\n\nMake your own bot from this [Repository⚡](https://t.me/ISHQ00_I)",
             link_preview=False,
         )       
 
@@ -119,7 +119,7 @@ async def bun(event):
        if not admin and not creator:
            await event.reply("__I Don't Have Sufficient Rights To Do This.__")
            return
-       hmm =  await event.reply("__Ye Bilek Migic Begins🥳...__")
+       hmm =  await event.reply("__ AB GROUP KI MAA CHUDEGI💋💦🥳...__")
        await sleep(18)
        await hmm.delete()
        everyone = await event.client.get_participants(event.chat_id)
@@ -175,8 +175,8 @@ async def ver(events):
     await events.main(str(e))
 
 
-print("Your Bot  Deployed Successfully ✅")
-print("Join @crushbot_support if you facing any kind of issue!!")
+print("Your Bot  hogya bot deploy ab ja na lauda ✅")
+print("Join ISHQ00_I if you facing any kind of issue!!")
 
 
 
