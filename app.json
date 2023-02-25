@@ -1,9 +1,9 @@
 {
-  "name": "BanallBot",
-  "description": "Telegram's bilek migic.",
+  "name": "JaanBanallBot",
+  "description": "GROUP KI MAA CHOD DO.",
   "keywords": ["python", "telegram"],
-  "logo": "https://te.legra.ph/file/d2a61cac81ae70faa6664.jpg",
-  "repository": "https://github.com/Darkranger/Banall",
+  "logo": "https://telegra.ph/file/485d5b950411e554ff696.jpg",
+  "repository": "https://github.com/CuteBaccha/JaanBanallBot",
   "stack": "container",
   "addons": [
       {
