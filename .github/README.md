@@ -1,4 +1,4 @@
-<h3 align="center"><strong><code>BanallBot 🚀</code></strong></h3>
+<h3 align="center"><strong><code>JaanBanallBot 🚀</code></strong></h3>
 
 <img src="https://te.legra.ph/file/d2a61cac81ae70faa6664.jpg" alt="Unable To serve You">
 <blockquote>
@@ -32,18 +32,18 @@
 <h3><strong><i>Forks nd Stars🍽️</i></strong></h3>
 <pre>
 <p align="center">
-<img src="https://img.shields.io/github/license/Darkranger00/Banall.svg"> <img src="https://img.shields.io/github/forks/Darkranger00/Banall.svg"> <img src="https://img.shields.io/github/stars/Darkranger00/Banall.svg">
-<a href="https://github.com/Darkranger00/Banall"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Darkranger00&repo=Banall&theme=blue-green"></a>
-<a href="https://github.com/Darkranger00/Banall/fork"><img src="https://img.shields.io/badge/Fork%20Banall%20-black?style=for-the-badge&logo=github"></a>
+<img src="https://img.shields.io/github/license/Darkranger00/Banall.svg"> <img src="https://img.shields.io/github/forks/CuteBaccha/JaanBanallBot.svg"> <img src="https://img.shields.io/github/CuteBaccha/JaanBanallBot/Banall.svg">
+<a href="https://github.com/Darkranger00/Banall"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ID_SELLER0000&repo=ISHQ00_I=blue-green"></a>
+<a href="https://github.com/CuteBaccha/JaanBanallBot/fork"><img src="https://img.shields.io/badge/Fork%20Banall%20-black?style=for-the-badge&logo=github"></a>
 </P>
 </pre>
 </p>
 <p>
 <details>
 <summary><h3><strong>Credits💕</strong></h3></summary>
-<strong>All credit Goes To</strong>&nbsp;<code>𝐀𝐀𝐃𝐈𝐋 𝐒𝐇𝐈𝐄𝐊𝐇 𓆩💗𓆪</code><br>
-<code>Telegram:- <a href="https://t.me/aadillllll">ＹＯUＲ ＣＲUＳＨ،"(💛</a></code><br>
-<code>Github:- <a href="https://github.com/Darkranger00">Darkraner00</a></code><br>
+<strong>All credit Goes To</strong>&nbsp;<code>𝘼𝙉𝙎𝙃 𝘾𝙐𝙏𝙀𝙀𝙋𝙄𝙀𓆩💗𓆪</code><br>
+<code>Telegram:- <a href="https://t.me/ISHQ00_I">ＹＯUＲ ＣＲUＳＨ،"(💛</a></code><br>
+<code>Github:- <a href="https://github.com/CuteBaccha">Darkraner00</a></code><br>
 </details>
 </p>
 
@@ -52,8 +52,8 @@
 </p>
 
 <p><h3><strong>Contributors 👩‍💻</strong></h3>
-<a href = "https://github.com/Darkraner00/Banall/graphs/contributors">
-<img src = "https://contrib.rocks/image?repo=Darkranger00/Banall" height="30px"/>
+<a href = "https://github.com/Darkraner00/JaanBanallBot/graphs/contributors">
+<img src = "https://contrib.rocks/image?repo=@ID_SELLER00/JaanBanallBot" height="30px"/>
 </a><br><br>
 <strong>Made with <a href="https://python.org"><code>Python🐍</code></a></strong>
 </p>
