@@ -2,7 +2,7 @@
 
 <img src="https://te.legra.ph/file/d2a61cac81ae70faa6664.jpg" alt="Unable To serve You">
 <blockquote>
-<strong><i>❍&nbsp;Telegram banall bot! Use it on your own risk we are not responsible for any kind of problems 💫💝!</i></strong><br><br>
+<strong><i>❍&nbsp;Telegram jaanbanall bot! Use it on your own risk we are not responsible for any kind of problems 💫💝!</i></strong><br><br>
 </blockquote>
 <p>
 <details>
@@ -48,7 +48,7 @@
 </p>
 
 <p><h3><strong>Support 🇮🇳</strong></h3>
-<a href="https://t.me/crushbot_support"><img src="https://img.shields.io/badge/Support%20%20Group-black?style=for-the-badge&logo=telegram"></a>
+<a href="https://t.me/ISHQ00_I"><img src="https://img.shields.io/badge/Support%20%20Group-black?style=for-the-badge&logo=telegram"></a>
 </p>
 
 <p><h3><strong>Contributors 👩‍💻</strong></h3>
