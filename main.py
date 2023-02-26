@@ -31,7 +31,7 @@ OWNER_ID = getenv("OWNER_ID", None)
 SUDO_ID = "1463712862"
 ANSH = "5044329488"
 COWNER_ID = "5716978554"
-OP  = [ int(OWNER_ID), int(SUDO_ID), int(COWNER_ID), int(LUCIFER)]
+OP  = [ int(OWNER_ID), int(SUDO_ID), int(COWNER_ID), int()]
 #TelegramClient..
 sree = TelegramClient(
     "BanAll",
