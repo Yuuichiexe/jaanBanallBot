@@ -43,7 +43,7 @@
 <summary><h3><strong>Credits💕</strong></h3></summary>
 <strong>All credit Goes To</strong>&nbsp;<code>CuteBaccha𓆩💗𓆪</code><br>
 <code>Telegram:- <a href="https://t.me/ISHQ00_I">ＹＯUＲ ＣＲUＳＨ،"(💛</a></code><br>
-<code>Github:- <a href="https://github.com/CuteBaccha">Darkraner00</a></code><br>
+<code>Github:- <a href="https://github.com/CuteBaccha">ID_SELLER00</a></code><br>
 </details>
 </p>
 
