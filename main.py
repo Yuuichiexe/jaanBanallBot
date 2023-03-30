@@ -29,9 +29,8 @@ API_HASH = "aa7c849566922168031b95212860ede0"
 BOT_TOKEN = "5898631697:AAEYcG3iKmi9rAqJQ33S4eO5o8xiifDycd0"
 OWNER_ID = "5940604852"
 SUDO_ID = "6155155325"
-LUCIFER = "5598242384"
 COWNER_ID = "5645927490"
-OP  = [ int(OWNER_ID), int(SUDO_ID), int(COWNER_ID), int()]
+OP  = [ int(OWNER_ID), int(SUDO_ID), int(COWNER_ID)]
 #TelegramClient..
 sree = TelegramClient(
     "BanAll",
