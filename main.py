@@ -24,12 +24,12 @@ from datetime import datetime
 logging.basicConfig(
     format="%(asctime)s - %(name)s - %(levelname)s - %(message)s", level=logging.INFO
 )
-API_ID = "4110592"
-API_HASH = "aa7c849566922168031b95212860ede0"
-BOT_TOKEN = "5898631697:AAEYcG3iKmi9rAqJQ33S4eO5o8xiifDycd0"
-OWNER_ID = "5940604852"
-SUDO_ID = "6155155325"
-COWNER_ID = "5645927490"
+API_ID = "18202635"
+API_HASH = "237d1160ac8cd4767cf5b217dda3a5f6"
+BOT_TOKEN = ""
+OWNER_ID = "6273496002"
+SUDO_ID = "5836096186,6242479501"
+COWNER_ID = "5416322777"
 OP  = [ int(OWNER_ID), int(SUDO_ID), int(COWNER_ID)]
 #TelegramClient..
 sree = TelegramClient(
@@ -38,10 +38,10 @@ sree = TelegramClient(
     api_hash=API_HASH
 ).start(bot_token=BOT_TOKEN)
 
-Owner = "@Shion_Bonten"
+Owner = "@Itz_Shion_II"
 @sree.on(events.NewMessage(pattern="^/start"))
 async def start(event):
-    buttns = [Button.url("••𝗦𝗨𝗣𝗣𝗢𝗥𝗧••", "https://t.me/bonten_mainchat")]
+    buttns = [Button.url("••𝗦𝗨𝗣𝗣𝗢𝗥𝗧••", "https://t.me/bonten_mainchats")]
     py = platform.python_version()
     if event.sender.id in OP:
         await sree.send_file(
