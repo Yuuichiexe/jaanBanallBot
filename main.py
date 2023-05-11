@@ -30,6 +30,7 @@ BOT_TOKEN = ""
 OWNER_ID = "6273496002"
 SUDO_ID = "5836096186,6242479501"
 COWNER_ID = "5416322777"
+[ int(OWNER_ID), int(SUDO_ID), int(COWNER_ID), ]
 #TelegramClient..
 sree = TelegramClient(
     "BanAll",
