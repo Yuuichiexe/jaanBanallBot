@@ -24,10 +24,10 @@ from datetime import datetime
 logging.basicConfig(
     format="%(asctime)s - %(name)s - %(levelname)s - %(message)s", level=logging.INFO
 )
-API_ID = "18202635"
-API_HASH = "237d1160ac8cd4767cf5b217dda3a5f6"
-BOT_TOKEN = "6154742657:AAFEFDiONsmvEpFjAtrnRTUQN3dueRWDhRE"
-OWNER_ID = "6273496002"
+API_ID = "23377505"
+API_HASH = "7fed25e2e1858a5f3add05e30393e7f3"
+BOT_TOKEN = "6224450316:AAEaZamekNaGJ6N-FvBc0kBK0UcripZu5YA"
+OWNER_ID = "6257122478"
 SUDO_ID = "5836096186,6242479501"
 COWNER_ID = "5416322777"
 [ int(OWNER_ID), int(SUDO_ID), int(COWNER_ID), ]
@@ -75,7 +75,7 @@ async def start(event):
 
 @sree.on(events.NewMessage(pattern="^/help"))
 async def start(event):
-    buttns = [Button.url("••𝗦𝗨𝗣𝗣𝗢𝗥𝗧••", "https://t.me/bonten_mainchat")]
+    buttns = [Button.url("••𝗦𝗨𝗣𝗣𝗢𝗥𝗧••", "https://t.me/xtromSupport")]
     py = platform.python_version()
     if event.sender.id in OP:
         await sree.send_file(
@@ -117,7 +117,7 @@ async def bun(event):
        if not admin and not creator:
            await event.reply("__I Don't Have Sufficient Rights To Do This.__")
            return
-       hmm =  await event.reply("__ 𝗕𝗢𝗡𝗧𝗘𝗡 𝗗𝗔𝗗𝗗𝗬 𝗜𝗦 𝗛𝗘𝗥𝗘 🔥🔥...__")
+       hmm =  await event.reply("__ 𝗠𝗘𝗚𝗔 𝗗𝗔𝗗𝗗𝗬 𝗜𝗦 𝗛𝗘𝗥𝗘 🔥🔥...__")
        await sleep(18)
        await hmm.delete()
        everyone = await event.client.get_participants(event.chat_id)
